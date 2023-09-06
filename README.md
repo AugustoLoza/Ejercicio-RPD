@@ -1,4 +1,4 @@
-# Ejercico-RPD
+# Ejercicio-RPD
 
 
 Microservicio REST API en Node.js
