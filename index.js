@@ -2,7 +2,7 @@
 
 const express = require('express');
 const app = express();
-const usuariosRouter = require('./routes/users');
+const usuariosRouter = require('./routes/index');
 
 app.use(express.json());
 
